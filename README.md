@@ -1,6 +1,6 @@
 1. ### **Sign Up Page**
 
-![Alt text][images/image1]
+![Alt text][images/image1.png]
 
 #### Figure 1.1 Sign Up Page
 
@@ -18,7 +18,7 @@ Figure 7.1 serves as an entry point for users to register and gain access to the
 
 2. ### **Login Page**
 
-![Alt text][images/image2]
+![Alt text][images/image2.png]
 
 #### Figure 1.2 Login Page
 
@@ -36,7 +36,7 @@ Figure 1.2 is part of the Authentication Subsystem and allows access to the syst
 
 3. ### **Home Page**
 
-![Alt text][images/image3]
+![Alt text][images/image3.png]
 
 #### Figure 1.3 Home Page (Before Login)
 
@@ -54,7 +54,7 @@ As one of the newest tutors to apply for the Amazing Tutor Finder, all you're re
 
 2. ### **Dashboard Page**
 
-_![Alt text][images/image5]_
+![Alt text][images/image5.png]
 
 #### Figure 1.5 Dashboard Page
 
@@ -62,7 +62,7 @@ Figure 1.5 provides an overview of a tutor's key activities, including the numbe
 
 3. ### **Sessions Page**
 
-![Alt text][images/image6]
+![Alt text][images/image6.png]
 
 #### Figure 1.6 Sessions Page
 
@@ -70,7 +70,7 @@ Figure 1.6 is a digital platform that enables tutors to create or update their t
 
 4. ### **Schedules Page**
 
-![Alt text][images/image7]
+![Alt text][images/image7.png]
 
 #### Figure 1.7 Schedules Page
 
@@ -78,7 +78,7 @@ Figure 1.7 is a web-based tool that enables tutors to view a list of students wh
 
 5. ### **Payment List Page**
 
-![Alt text][images/image8]
+![Alt text][images/image8.png]
 
 #### Figure 1.8 Payment List Page
 
@@ -86,7 +86,7 @@ Figure 1.8 facilitates the viewing of a list of payments received by tutors for 
 
 6. ### **Payment Details Page**
 
-![Alt text][images/image9]
+![Alt text][images/image9.png]
 
 #### Figure 1.9 Payment Details Page
 
@@ -94,7 +94,7 @@ Figure 1.9 offers a thorough overview of a particular payment transaction, encom
 
 7. ### **Settings Page**
 
-![Alt text][images/image10]
+![Alt text][images/image10.png]
 
 #### Figure 1.10 Settings Page
 
@@ -104,7 +104,7 @@ Figure 1.10 facilitates the management of account security and the updating of s
 
     1. ### **Dashboard Page**
 
-![Alt text][images/image11]
+![Alt text][images/image11.png]
 
 #### Figure 1.11 Dashboard Page
 
@@ -112,7 +112,7 @@ Figure 1.11 shows the homepage after a user has logged in. The design is similar
 
 2. ### **Tutor List Page**
 
-_![Alt text][images/image12]_
+![Alt text][images/image12.png]
 
 #### Figure 1.12 Tutor List Page
 
@@ -120,17 +120,17 @@ Figure 1.12 displays available tutors, providing an option for students and pare
 
 3. ### **Tutor Details Page**
 
-_![Alt text][images/image13]_
+![Alt text][images/image13.png]
 
 #### Figure 1.13 Tutor Details Page
 
 Figure 1.13 showcases detailed information about a specific tutor, such as their name, teaching experience, contact details, location, and availability. This screen is primarily used by students and parents to learn more about a tutor's qualifications before making a booking. Key features include the option to write a review or report about the tutor, as well as the ability to notify the parent. It also displays the tutor's social media links for easier communication and provides feedback about the tutor's sessions. This screen helps students and parents make informed decisions when choosing tutors for their sessions.  
-_![Alt text][images/image14]_
+_![Alt text][images/image14].png_
 
 #### Figure 1.14 Review Tutor Pop-Up
 
 Figure 1.14 allows users (parents or students) to provide feedback on a tutor's performance. The modal appears when the user clicks the "Write a Review" button on the tutor's profile page. It includes a rating system where users can select a score from 1 to 5 stars. After rating, the user can write a detailed feedback in the provided text box, giving a description of their experience with the tutor. Once the review is complete, the user can submit it by clicking the "Submit Review" button. This helps provide valuable insights for other students and parents who are considering the tutor for their sessions.  
-_![Alt text][images/image14]_
+![Alt text][images/image14.png]
 
 #### Figure 1.15 Report Tutor Pop-Up
 
@@ -138,7 +138,7 @@ Figure 1.15 allows users (such as parents or students) to report any issues or c
 
 4. ### **Enrolled Tutor Page**
 
-![Alt text][images/image15]
+![Alt text][images/image15.png]
 
 #### Figure 1.16 Enrolled Tutor Page
 
@@ -146,7 +146,7 @@ Figure 1.16 shows the tutors that the student has enrolled in, with their respec
 
 5. ### **Settings & Privacy Page**
 
-_![Alt text][images/image16]_
+![Alt text][images/image16.png]
 
 #### Figure 1.17 Settings & Privacy Page
 
@@ -156,7 +156,7 @@ Figure 1.17 allows students to manage their personal information and account set
 
     1. ### **Rate Tutor Page**
 
-_![Alt text][images/image17]_
+![Alt text][images/image17.png]
 
 #### Figure 1.18 Rate Tutor Page
 
@@ -164,7 +164,7 @@ Figure 1.18 displays a session booking interface for Tutor2 User on the Amazing 
 
 2. ### **Report Tutor Page**
 
-_![Alt text][images/image18]_
+![Alt text][images/image18.png]
 
 #### Figure 1.19 Report Tutor Page
 
@@ -172,7 +172,7 @@ Figure 1.19 displays a session booking interface for Tutor2 User on the Amazing 
 
 3. ### **Book Sessions Page**
 
-_![Alt text][images/image19]_
+![Alt text][images/image19.png]
 
 #### Figure 1.20 Book Sessions Page
 
@@ -180,7 +180,7 @@ Figure 1.20 allows parents to book a session for their child with a tutor. The p
 
 4. ### **Purchase History Page**
 
-_![Alt text][images/image20]_
+![Alt text][images/image20.png]
 
 #### Figure 1.21 Purchase History Page
 
@@ -188,7 +188,7 @@ Figure 1.21 provides users with a clear and organized view of their past transac
 
 5. ### **Setting & Privacy Page**
 
-_![Alt text][images/image20]_
+![Alt text][images/image20.png]
 
 #### Figure 1.22 Setting & Privacy Page
 
@@ -198,7 +198,7 @@ Figure 1.22 provides users with a secure and convenient way to manage their acco
 
     1. ### **Proceed Payment Page**
 
-_![Alt text][images/image21]_
+![Alt text][images/image21.png]
 
 #### Figure 1.23 Proceed Payment Page
 
@@ -206,7 +206,7 @@ Figure 1.23 offers two payment methods: "Pay with Link", a fast checkout option,
 
 2. ### **Payment Success Page**
 
-_![Alt text][images/image22]_
+![Alt text][images/image22.png]
 
 #### Figure 1.24 Payment Success Page
 
@@ -216,7 +216,7 @@ Figure 1.24 shows a "Payment Successful\!" confirmation screen. It indicates tha
 
     1. ### **Dashboard Page**
 
-![Alt text][images/image23]
+![Alt text][images/image23.png]
 
 #### Figure 1.25 Dashboard Page
 
@@ -228,7 +228,7 @@ Overall, this dashboard serves as a central hub for administrators to monitor us
 
 2. ### **Tutor Registration List Page**
 
-![Alt text][images/image24]
+![Alt text][images/image24.png]
 
 #### Figure 1.26 Tutor Registration List
 
@@ -236,7 +236,7 @@ Figure 1.26 displays a structured table containing details of registered tutors 
 
 3. ### **Tutor Registration Details Page**
 
-![Alt text][images/image25]
+![Alt text][images/image25.png]
 
 #### Figure 1.27 Tutor Registration Details
 
@@ -244,7 +244,7 @@ Figure 1.27 presents a structured form displaying key information about a tutor'
 
 4. ### **Tutor Management Lists Page**
 
-![Alt text][images/image26]
+![Alt text][images/image26.png]
 
 #### Figure 1.28 Tutor Management Lists
 
@@ -252,7 +252,7 @@ Figure 1.28 displays a list of tutors who have already been approved. Unlike the
 
 5. ### **Tutor Management Details Page**
 
-![Alt text][images/image27]
+![Alt text][images/image27.png]
 
 #### Figure 1.29 Tutor Management Details
 
@@ -260,7 +260,7 @@ Figure 1.29 provides a comprehensive view of their profile. It includes fields d
 
 6. ### **Report Management Lists Page**
 
-![Alt text][images/image28]
+![Alt text][images/image28.png]
 
 #### Figure 1.30 Report List
 
@@ -268,7 +268,7 @@ Figure 1.30 provides an overview of user-submitted reports, allowing administrat
 
 7. ### **Report Details Page**
 
-![Alt text][images/image29]
+![Alt text][images/image29.png]
 
 #### Figure 1.31 Report Details
 
@@ -276,7 +276,7 @@ Figure 1.31 provides an in-depth view of a submitted report, allowing administra
 
 8. ### **Payment Lists Page**
 
-![Alt text][images/image30]
+![Alt text][images/image30.png]
 
 #### Figure 1.32 Payment Lists
 
@@ -284,7 +284,7 @@ Figure 1.32 provides an overview of completed transactions within the system. It
 
 9. ### **Payment Details Page**
 
-![Alt text][images/image31]
+![Alt text][images/image31.png]
 
 #### Figure 1.33 Payment Details
 
@@ -292,7 +292,7 @@ Figure 1.33 provides a comprehensive breakdown of a completed transaction. At th
 
 10. ### **Settings Page**
 
-![Alt text][images/image32]
+![Alt text][images/image32.png]
 
 #### Figure 1.34 Settings
 
