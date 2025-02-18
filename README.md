@@ -46,7 +46,7 @@ Figure 1.3 displays the homepage of the "Amazing Tutor Finder" website before a 
 
 1. ### **Sign Up As Tutor**
 
-![Alt text](images/image4)
+![Alt text](images/image4.png)
 
 #### Figure 1.4 Sign Up As Tutor Page
 
