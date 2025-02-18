@@ -38,7 +38,7 @@
                             <img v-if="imagePreview" :src="imagePreview" alt="Profile Picture Preview" class="img-fluid mt-2" style="max-width: 163px; height: auto" />
                         </div>
 
-                        <input class="form-control" type="file" id="profile_picture" accept="image/*" @change="handleImageUpload" required/>
+                        <input class="form-control" type="file" id="profile_picture" accept="image/*" @change="handleImageUpload" />
                     </div>
                 </div>
             </div>
@@ -152,8 +152,8 @@ const tutorStore = useTutorStore();
 const authStore = useAuthStore();
 
 const fullname = ref(authStore.user.name || "");
-const country_code = ref("+60");
-const phone_number = ref(authStore.user.phone || "");
+const country_code = ref("");
+const phone_number = ref("");
 const currentPassword = ref("");
 const password = ref("");
 const confirmPassword = ref("");
@@ -182,7 +182,13 @@ onMounted(async () => {
 
         if (data) {
             fullname.value = authStore.user.name;
-            phone_number.value = authStore.user.phone;
+
+            let number1 = authStore.user.phone.slice(0, 3) || "+60";
+            let number2 = authStore.user.phone.slice(3, 10) || "";
+
+            country_code.value = number1;
+            phone_number.value = number2;
+
             email.value = authStore.user.email;
             education_background.value = data.education_background || "";
             teaching_experience.value = data.teaching_experience || "";
@@ -226,7 +232,7 @@ const handleEdit = async () => {
             // User
             name: fullname.value,
             email: email.value,
-            phone_number: phone_number.value,
+            phone_number: country_code.value + phone_number.value,
             profile_picture: imagePreview.value,
 
             // Tutor
