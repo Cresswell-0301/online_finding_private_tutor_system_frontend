@@ -44,7 +44,7 @@ Figure 1.3 displays the homepage of the "Amazing Tutor Finder" website before a 
 
 4. ## **Tutor Management Subsystem Screens**
 
-1. ### **Sign Up As Tutor**
+4.1. ### **Sign Up As Tutor**
 
 ![Alt text](images/image4.png)
 
@@ -52,7 +52,7 @@ Figure 1.3 displays the homepage of the "Amazing Tutor Finder" website before a 
 
 As one of the newest tutors to apply for the Amazing Tutor Finder, all you're required to do is enter your full name, phone number, email, and password (confirmation also required) in order to sign yourself up on this page (Figure 1.4). You are also welcome to upload your profile picture and provide general information regarding your educational background, teaching experiences, and further details in the About Me section. There will be a corresponding field to put in your social profiles such as your Instagram, LinkedIn, and WhatsApp accounts to facilitate direct contact with students and parents. ek. After filling in the forms, simply save and send for approval the application as pending, thus ensuring that we continue to welcome only quality tutors in a friendly but professional manner.
 
-2. ### **Dashboard Page**
+4.2. ### **Dashboard Page**
 
 ![Alt text](images/image5.png)
 
@@ -60,7 +60,7 @@ As one of the newest tutors to apply for the Amazing Tutor Finder, all you're re
 
 Figure 1.5 provides an overview of a tutor's key activities, including the number of students, total earnings, and online sessions. It features a schedule section displaying upcoming sessions with students, along with an overall rating breakdown based on student feedback. The profile section allows tutors to update their details, while the sidebar navigation offers quick access to sessions, schedules, payments, and profile management. This dashboard helps tutors efficiently manage their workload and track their performance in one centralised view.
 
-3. ### **Sessions Page**
+4.3. ### **Sessions Page**
 
 ![Alt text](images/image6.png)
 
@@ -68,7 +68,7 @@ Figure 1.5 provides an overview of a tutor's key activities, including the numbe
 
 Figure 1.6 is a digital platform that enables tutors to create or update their teaching sessions. The functionality of the page allows tutors to input session-related details, including the title, subtitle, designated course language, and the corresponding price per month. Furthermore, tutors can select the session month and specify their available working days. This feature provides a high degree of flexibility in terms of scheduling, and ensures that students can view and book sessions based on tutor availability. The Sessions Page has been designed to have a streamlined interface, with the objective of enabling tutors to manage their session offerings in an efficient manner.
 
-4. ### **Schedules Page**
+4.4. ### **Schedules Page**
 
 ![Alt text](images/image7.png)
 
@@ -76,7 +76,7 @@ Figure 1.6 is a digital platform that enables tutors to create or update their t
 
 Figure 1.7 is a web-based tool that enables tutors to view a list of students who have enrolled in their sessions. It displays key session details, including the student's name, session month, day, time, and teaching mode. The "Notify" button facilitates communication between tutors and students by enabling tutors to send an email notification to students, including a Google Calendar event link. This feature ensures that students can easily add the session to their personal calendars, enhancing the efficiency of the communication process and ensuring students remain informed about their upcoming sessions.
 
-5. ### **Payment List Page**
+4.5. ### **Payment List Page**
 
 ![Alt text](images/image8.png)
 
@@ -84,7 +84,7 @@ Figure 1.7 is a web-based tool that enables tutors to view a list of students wh
 
 Figure 1.8 facilitates the viewing of a list of payments received by tutors for their sessions. The page displays key details such as the payer's name, the amount paid, and the payment status. A "Details" button is available for each payment entry, allowing tutors to navigate to a more detailed view of the selected payment. This ensures transparency and facilitates the tracking of earnings for tutors.
 
-6. ### **Payment Details Page**
+4.6. ### **Payment Details Page**
 
 ![Alt text](images/image9.png)
 
@@ -92,7 +92,7 @@ Figure 1.8 facilitates the viewing of a list of payments received by tutors for 
 
 Figure 1.9 offers a thorough overview of a particular payment transaction, encompassing essential details such as the payer's information (parent's name and email address), the student's particulars, the tutor's details, and the scheduled session times. The payment amount, status, and recipient information are also exhibited for transparency purposes. Furthermore, the page incorporates a "Download PDF" button that facilitates the download of a comprehensive payment receipt for archival purposes. A "Back" button enables seamless navigation to the previous page.
 
-7. ### **Settings Page**
+4.7. ### **Settings Page**
 
 ![Alt text](images/image10.png)
 
@@ -102,7 +102,7 @@ Figure 1.10 facilitates the management of account security and the updating of s
 
 5. ## **Student Management Subsystem Screens**
 
-    1. ### **Dashboard Page**
+5.1. ### **Dashboard Page**
 
 ![Alt text](images/image11.png)
 
@@ -110,7 +110,7 @@ Figure 1.10 facilitates the management of account security and the updating of s
 
 Figure 1.11 shows the homepage after a user has logged in. The design is similar to the pre-login version, but with an updated navigation bar that includes "Create Account" and "Login" options replaced by the user's logged-in status. The page displays a "Tutor Recommended" section with a session and price details, and the user can browse tutors. A settings window is also shown, where users can adjust theme colors and toggle buttons and music sound settings, creating a personalized browsing experience. The "Browse All Tutor" button encourages users to explore available tutors.
 
-2. ### **Tutor List Page**
+5.2. ### **Tutor List Page**
 
 ![Alt text](images/image12.png)
 
@@ -118,7 +118,7 @@ Figure 1.11 shows the homepage after a user has logged in. The design is similar
 
 Figure 1.12 displays available tutors, providing an option for students and parents to search and filter based on criteria such as subject, rating, and location. The tutors are shown with their session details, including price and the number of enrolled students. Users can view detailed tutor profiles or choose to book a session directly from this screen. The screen is designed to make it easy for parents and students to browse tutors and manage session bookings. The "Tutor List" section serves as an essential interface for browsing and selecting tutors, making it an important part of the system's core functionalities.
 
-3. ### **Tutor Details Page**
+5.3. ### **Tutor Details Page**
 
 ![Alt text](images/image13.png)
 
@@ -136,7 +136,7 @@ Figure 1.14 allows users (parents or students) to provide feedback on a tutor's 
 
 Figure 1.15 allows users (such as parents or students) to report any issues or concerns they may have regarding a tutor. It appears when the user clicks the "Write a Report" button on the tutor's profile page. The modal asks for the "Report to" field (which defaults to the tutor's name) and a "Description" field where users can provide detailed feedback about the issue or situation. Once the description is written, the user can submit the report by clicking the "Submit Report" button. This feature helps the platform maintain quality control and ensure a safe and professional environment for students and tutors.
 
-4. ### **Enrolled Tutor Page**
+5.4. ### **Enrolled Tutor Page**
 
 ![Alt text](images/image15.png)
 
@@ -144,7 +144,7 @@ Figure 1.15 allows users (such as parents or students) to report any issues or c
 
 Figure 1.16 shows the tutors that the student has enrolled in, with their respective session details. Each tutor session is displayed with the tutor's name and teaching schedule, such as Monday and Thursday from 08:00 to 10:00 for one session and Monday and Thursday from 13:00 to 15:00 for another. The student can view a rating for each session along with the number of students enrolled. Additionally, there are options to view more details about each session or leave a review for the tutor, offering an easy interface for managing and interacting with enrolled tutors.
 
-5. ### **Settings & Privacy Page**
+5.5. ### **Settings & Privacy Page**
 
 ![Alt text](images/image16.png)
 
@@ -154,7 +154,7 @@ Figure 1.17 allows students to manage their personal information and account set
 
 6. ## **Parent Management Subsystem Screens**
 
-    1. ### **Rate Tutor Page**
+6.1. ### **Rate Tutor Page**
 
 ![Alt text](images/image17.png)
 
@@ -162,7 +162,7 @@ Figure 1.17 allows students to manage their personal information and account set
 
 Figure 1.18 displays a session booking interface for Tutor2 User on the Amazing Tutor Finder platform. The form allows users to select how many stars they want to rate and parents can give feedback.The interface includes a "Submit Review" button, which will submit the review to the page.
 
-2. ### **Report Tutor Page**
+6.2. ### **Report Tutor Page**
 
 ![Alt text](images/image18.png)
 
@@ -170,7 +170,7 @@ Figure 1.18 displays a session booking interface for Tutor2 User on the Amazing 
 
 Figure 1.19 displays a session booking interface for Tutor2 User on the Amazing Tutor Finder platform. The form allows parents to report the tutor if anything goes wrong and parents can write a description of why they reported the tutor. The interface includes a "Submit Review" button, which will submit the review to the page.
 
-3. ### **Book Sessions Page**
+6.3. ### **Book Sessions Page**
 
 ![Alt text](images/image19.png)
 
@@ -178,7 +178,7 @@ Figure 1.19 displays a session booking interface for Tutor2 User on the Amazing 
 
 Figure 1.20 allows parents to book a session for their child with a tutor. The parent selects the child from a dropdown menu, chooses the month and available session time (e.g., Sunday from 08:00 to 10:00), and reviews the order summary, which includes the session cost and platform service charge. The total cost is calculated and displayed, and the parent can proceed to make a payment to confirm the session booking. This page streamlines the process for parents to schedule and pay for tutoring sessions, offering a clear summary of the details.
 
-4. ### **Purchase History Page**
+6.4. ### **Purchase History Page**
 
 ![Alt text](images/image20.png)
 
@@ -186,7 +186,7 @@ Figure 1.20 allows parents to book a session for their child with a tutor. The p
 
 Figure 1.21 provides users with a clear and organized view of their past transactions. It displays a list of purchased tutoring sessions, including session names, number of sessions, and payment details. Each transaction is listed with the amount paid, the date and time of the purchase, and the payment method (e.g., credit card with masked card details). The page ensures users can easily track their spending and review their session history. Additionally, a confirmation message at the bottom notifies users when they have reached the end of their purchase records. The navigation bar allows switching between "Purchase History" and "Settings & Privacy", while a "Sign Out" button ensures secure account management. The footer includes the Amazing Tutor Finder logo, social media icons (Facebook, Instagram, LinkedIn), quick links to the About and Contact pages, and a copyright notice. This page helps users manage their past transactions efficiently while maintaining security and accessibility.
 
-5. ### **Setting & Privacy Page**
+6.5. ### **Setting & Privacy Page**
 
 ![Alt text](images/image20.png)
 
@@ -196,7 +196,7 @@ Figure 1.22 provides users with a secure and convenient way to manage their acco
 
 7. ## **Payment Subsystem Screens**
 
-    1. ### **Proceed Payment Page**
+7.1. ### **Proceed Payment Page**
 
 ![Alt text](images/image21.png)
 
@@ -204,7 +204,7 @@ Figure 1.22 provides users with a secure and convenient way to manage their acco
 
 Figure 1.23 offers two payment methods: "Pay with Link", a fast checkout option, and manual card entry. Users need to fill in their email, card details (card number, expiration date, CVC), cardholder name, and country/region (set to Malaysia). Additionally, there's an option to securely save payment information for quicker future checkouts. The "Pay" button is located at the bottom to complete the transaction. The checkout page is in test mode, meaning it's likely being used for development or testing purposes rather than real transactions.Forgot Password page on Amazing Tutor Finder provides a simple and secure way for users to reset their passwords if they are unable to log in. To initiate the password reset process, users need to enter their registered email address in the provided field. Upon submission by clicking the "Next" button, a One-Time Password (OTP) will be sent to the entered email address. Users can then use the received OTP to verify their identity and proceed with creating a new password. This feature ensures account security while allowing users to regain access to their accounts efficiently.
 
-2. ### **Payment Success Page**
+7.2. ### **Payment Success Page**
 
 ![Alt text](images/image22.png)
 
@@ -214,7 +214,7 @@ Figure 1.24 shows a "Payment Successful\!" confirmation screen. It indicates tha
 
 8. ## **Admin Management Subsystem Screens**
 
-    1. ### **Dashboard Page**
+8.1. ### **Dashboard Page**
 
 ![Alt text](images/image23.png)
 
@@ -226,7 +226,7 @@ In the main content section, the Dashboard header is prominently displayed, foll
 
 Overall, this dashboard serves as a central hub for administrators to monitor user activity, manage tutor applications, track earnings, and handle reports efficiently.
 
-2. ### **Tutor Registration List Page**
+8.2. ### **Tutor Registration List Page**
 
 ![Alt text](images/image24.png)
 
@@ -234,7 +234,7 @@ Overall, this dashboard serves as a central hub for administrators to monitor us
 
 Figure 1.26 displays a structured table containing details of registered tutors awaiting approval. The table includes three main columns: Tutor Name, Email, and Phone Number, listing multiple tutor entries with their respective contact information. Each row represents an individual tutor, and next to each entry is an orange "Details" button, allowing the administrator to review more information about the tutor's application. This layout provides a clear and organized view for managing tutor registrations efficiently.
 
-3. ### **Tutor Registration Details Page**
+8.3. ### **Tutor Registration Details Page**
 
 ![Alt text](images/image25.png)
 
@@ -242,7 +242,7 @@ Figure 1.26 displays a structured table containing details of registered tutors 
 
 Figure 1.27 presents a structured form displaying key information about a tutor's profile. It includes fields for the full name, phone number, email, education background, and teaching experience, allowing administrators to review and verify tutor credentials. An "About Me" section provides a brief description of the tutor's background and expertise. Additionally, a Social Profile section at the bottom contains links to the tutor’s external platforms, such as Instagram, LinkedIn, and WhatsApp, facilitating further contact and verification.the tutor registration detail page, this page includes a button allowing the administrator to change the tutor’s account status to "Approve" or “Reject” This layout ensures efficient management and evaluation of tutor applications.
 
-4. ### **Tutor Management Lists Page**
+8.4. ### **Tutor Management Lists Page**
 
 ![Alt text](images/image26.png)
 
@@ -250,7 +250,7 @@ Figure 1.27 presents a structured form displaying key information about a tutor'
 
 Figure 1.28 displays a list of tutors who have already been approved. Unlike the Tutor Registration List, which shows pending tutor applications, this page includes an additional Overall Rating column, providing insight into each tutor’s performance based on student feedback. The table contains columns for the tutor’s name, email, phone number, and their rating out of five stars, allowing administrators to monitor tutor quality. Each row has a "Details" button, enabling the admin to access a tutor’s full profile and manage their status if necessary. At the bottom, pagination controls allow navigation between multiple pages of tutor records, ensuring efficient management of large tutor lists.
 
-5. ### **Tutor Management Details Page**
+8.5. ### **Tutor Management Details Page**
 
 ![Alt text](images/image27.png)
 
@@ -258,7 +258,7 @@ Figure 1.28 displays a list of tutors who have already been approved. Unlike the
 
 Figure 1.29 provides a comprehensive view of their profile. It includes fields displaying the tutor's full name, phone number, email, education background, and teaching experience, along with a brief "About Me" section describing their expertise. Below, a Social Profile section contains links to the tutor's Instagram, LinkedIn, and WhatsApp, offering additional contact options. Unlike the tutor detail review page, this page includes a button allowing the administrator to change the tutor’s account status to "Rejected", giving them the ability to revoke approval if necessary. This feature ensures that administrators can manage tutor eligibility even after initial approval.
 
-6. ### **Report Management Lists Page**
+8.6. ### **Report Management Lists Page**
 
 ![Alt text](images/image28.png)
 
@@ -266,7 +266,7 @@ Figure 1.29 provides a comprehensive view of their profile. It includes fields d
 
 Figure 1.30 provides an overview of user-submitted reports, allowing administrators to review and manage complaints. The table consists of columns displaying the report by user, report time, and title of the report. Each row contains a "Details" button, enabling administrators to access a more detailed view of the report for further investigation. This page ensures that all submitted reports are logged and accessible for review, helping administrators take appropriate action when necessary.
 
-7. ### **Report Details Page**
+8.7. ### **Report Details Page**
 
 ![Alt text](images/image29.png)
 
@@ -274,7 +274,7 @@ Figure 1.30 provides an overview of user-submitted reports, allowing administrat
 
 Figure 1.31 provides an in-depth view of a submitted report, allowing administrators to review and take action. It displays the reported user's full name, email, and the tutor associated with the report, along with the content of the complaint. There is a feedback input field where the administrator can add remarks or a resolution before submitting a response. Additionally, a "View Tutor" button is available, enabling the admin to directly access the tutor’s profile for further investigation. At the bottom, there are "Cancel" and "Submit" buttons, allowing the admin to either discard or finalize the feedback. This page ensures efficient management and resolution of reported issues.
 
-8. ### **Payment Lists Page**
+8.8. ### **Payment Lists Page**
 
 ![Alt text](images/image30.png)
 
@@ -282,7 +282,7 @@ Figure 1.31 provides an in-depth view of a submitted report, allowing administra
 
 Figure 1.32 provides an overview of completed transactions within the system. It displays key details, including the recipient (Pay To), payer (Paid By), transaction amount, and payment status. The status is visually indicated with a checkmark for successful payments. Each row has a "Details" button that allows administrators to review more information about a specific transaction. This page helps the admin monitor and manage payments efficiently, ensuring that tutors receive their earnings and transactions are properly recorded.
 
-9. ### **Payment Details Page**
+8.9. ### **Payment Details Page**
 
 ![Alt text](images/image31.png)
 
@@ -290,7 +290,7 @@ Figure 1.32 provides an overview of completed transactions within the system. It
 
 Figure 1.33 provides a comprehensive breakdown of a completed transaction. At the top, the Summary section displays the recipient (Pay To), payer (Paid By), amount, and transaction status, ensuring clarity on the payment's success. Below, detailed sections for Parent Information, Student Information, and Tutor Information list the associated users along with their contact details. The Booked Time section specifies the date and time slot of the session, confirming the service for which the payment was made. At the bottom, there are two action buttons: "Back" to return to the previous page and "Download PDF" to generate a payment receipt. This page ensures that administrators have full visibility into transaction details for verification and record-keeping.
 
-10. ### **Settings Page**
+8.10. ### **Settings Page**
 
 ![Alt text](images/image32.png)
 
