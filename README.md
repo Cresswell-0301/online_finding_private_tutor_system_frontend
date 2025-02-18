@@ -125,7 +125,7 @@ Figure 1.12 displays available tutors, providing an option for students and pare
 #### Figure 1.13 Tutor Details Page
 
 Figure 1.13 showcases detailed information about a specific tutor, such as their name, teaching experience, contact details, location, and availability. This screen is primarily used by students and parents to learn more about a tutor's qualifications before making a booking. Key features include the option to write a review or report about the tutor, as well as the ability to notify the parent. It also displays the tutor's social media links for easier communication and provides feedback about the tutor's sessions. This screen helps students and parents make informed decisions when choosing tutors for their sessions.  
-_![Alt text](images/image14].png)
+_![Alt text](images/image14.png)
 
 #### Figure 1.14 Review Tutor Pop-Up
 
